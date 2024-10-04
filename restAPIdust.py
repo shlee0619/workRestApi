@@ -4,7 +4,7 @@ import json
 import pandas as pd
 import os
 
-#성공
+
 #1단계
 def getRequestURL(url, enc='utf-8'):
     request = urllib.request.Request(url)
