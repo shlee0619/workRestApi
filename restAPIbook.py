@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import os
 
-#성공
+
 def getBookstoreData(numOfRows, pageNo):
     print()
     print('중고서점 조회 getBookstoreData() ')
