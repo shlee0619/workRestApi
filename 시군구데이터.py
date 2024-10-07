@@ -42,7 +42,7 @@ def getArchitectureData(serviceKey, sigunguCd, bjdongCd, platGbCd, bun, ji, numO
     return ret_data
 
 # 3단계: 메인 실행 부분
-serviceKey = 'oMM%2BqUd5Dvoar9itmtJ3rwqG%2FHs67am%2Fx1RZf0vts3eTBQo9895J9yQZfewclR7d1zPNmvk1uIeJ1%2FcM%2FQHV9w%3D%3D'  # 실제 서비스 키로 대체하세요
+serviceKey = '서비스 키로 실행'
 
 # 결과를 저장할 리스트 초기화
 result = []
